@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MD Study Notes - About</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" type="image/x-icon" href="logo.png" />
+
+    <%- include('fonts'); %>
+
+    <link href="light.css" rel="stylesheet" />
+  </head>
+  <body>
+    <%- include('header'); %>
+
+    <div class="main-container">
+      <h2>Che cos'è il "Markdown"?</h2>
+
+      <p>
+        Markdown è un linguaggio di markup, ovvero un insieme di regole che
+        descrivono i meccanismi di rappresentazione o d'impaginazione di un
+        testo facendo uso di convenzioni rese standard, che stabiliscono regole
+        per la formattazione.
+      </p>
+      <p>
+        In Markdown possiamo per esempio definire dei titoli in questo modo,
+        semplicemente scrivendo uno o più cancelletti prima del titolo. Possiamo
+        tenere conto della gerarchia dei titoli grazie al numero di cancelletti
+        usati:
+      </p>
+
+      <p class="code-block">
+        # Titolo 1<br />
+        ## Sottotitolo<br />
+        ### Eccetera...<br />
+      </p>
+
+      <p>Possiamo definire la formattazione in stile grassetto o in corsivo:</p>
+
+      <p class="code-block">
+        *Testo corsivo*<br />
+        **Testo grassetto**<br />
+        ***Testo grassetto e corsivo***<br />
+      </p>
+
+      <p>
+        Oppure possiamo definire elenchi, numerati o non, semplicemente
+        aggiungendo numeri o trattini davanti agli elementi di una lista:
+      </p>
+
+      <p class="code-block">
+        1. Primo elemento di una lista numerata<br />
+        2. Secondo elemento di una lista numerata<br />
+        3. Terzo elemento di una lista numerata<br />
+        <br />
+        - Primo elemento di una lista non numerata<br />
+        - Secondo elemento di una lista non numerata<br />
+        - Terzo elemento di una lista non numerata<br />
+      </p>
+
+      <p>
+        Del testo scritto senza simboli davanti viene interpretato come un
+        normale paragrafo.
+      </p>
+
+      <p>
+        Si possono inoltre inserire immagini, collegamenti ipertestuali e altri
+        elementi semplicemente digitando i giusti caratteri per designare la
+        formattazione dell'elemento nel documento finale.
+      </p>
+
+      <p>
+        Esistono dei software che impaginano documenti scritti in Markdown,
+        rimuovendo i simboli che definiscono il ruolo degli elementi e
+        restituendo documenti formattati e pronti da usare in altri contesti.
+      </p>
+
+      <p>
+        Per esempio, se scriviamo questo documento Markdown (notare l'uso di
+        simboli nel testo):
+      </p>
+
+      <p class="code-block">
+        # Ricetta per la pizza **fantasiosa**<br />
+        <br />
+        ## Ingredienti<br />
+        <br />
+        Il bello della pizza è che possiamo decorarla con ***qualsiasi***
+        ingrediente! In questa versione *fantasiosa* useremo questi
+        ingredienti:<br />
+        <br />
+        - Funghi<br />
+        - Prosciutto<br />
+        - Cipolle<br />
+        <br />
+        <br />
+        ## Procedimento<br />
+        <br />
+        Eccetera...<br />
+      </p>
+
+      <p>Una volta formattato il testo otterremo:</p>
+
+      <div class="box">
+        <h1>Ricetta per la pizza <strong>fantasiosa</strong></h1>
+        <h2>Ingredienti:</h2>
+        <p>
+          Il bello della pizza è che possiamo decorarla con
+          <em><strong>qualsiasi</strong></em> ingrediente! In questa versione
+          <i>fantasiosa</i> useremo questi ingredienti:
+        </p>
+
+        <ul>
+          <li>Funghi</li>
+          <li>Prosciutto</li>
+          <li>Cipolle</li>
+        </ul>
+
+        <h2>Procedimento</h2>
+
+        <p>Eccetera...</p>
+      </div>
+
+      <p>
+        Se volete provare Markdown subito potete provare
+        <a href="https://dillinger.io/">Dillinger</a>, un editor di Markdown che
+        si può usare direttamente dal browser.
+      </p>
+
+      <h2>Perchè usare Markdown?</h2>
+
+      <p>Perchè è "astratto".</p>
+      <p>
+        Quando scriviamo in Word, per esempio, possiamo definire dei titoli e
+        formattare il testo come tale, ma il testo viene formattato subito.
+        Diventa già un titolo, e magari non ci piace lo stile che Word ha scelto
+        per noi, allora ci distraiamo e ci perdiamo tra i titoli di Word,
+        cercando di scegliere un font e un colore che ci piacciano.
+      </p>
+      <p>
+        Adesso tutti i miei titoli sono verdi e ho scelto un font che mi piace,
+        ma che cosa dovevo scrivere?
+      </p>
+      <p>
+        Markdown può rimuovere questo genere di distrazioni. Sappiamo che un
+        titolo è un titolo perchè viene preceduto da un cancelletto, ma possiamo
+        formattarlo dopo.
+      </p>
+
+      <p>
+        <strong>È in questo modo che ho implementato Dark Mode</strong> (e altri
+        stili, belli ma forse non molti pratici da usare) nelle pagine degli
+        appunti!
+      </p>
+
+      <h2>Come hai creato questo server?</h2>
+
+      <p>
+        L'ho scritto utilizzando HTML, CSS e Javascript, linguaggi essenziali da
+        sapere per il web development.
+      </p>
+
+      <p>
+        Ad un certo punto ho avuto l'esigenza di elencare tutti gli appunti che
+        avevo scritto in un singolo posto per poi impaginarli per la stampa.
+      </p>
+      <p>
+        La prima feature a cui ho lavorato è stato appunto renderizzare (cioè
+        rendere visibile) una pagina web a partire dal file Markdown, poi
+        aggiungendo man mano altre funzionalità mi sono ritrovata con MD Study
+        Notes fra le mani.
+      </p>
+
+      <p>
+        Il processo di web development su NodeJs è abbastanza divertente, visto
+        che può essere paragonato alle costruzioni Lego: se si trova un certo
+        strumento che fa al caso nostro che vogliamo usare, allora si cerca di
+        "incastrarlo" nel progetto da qualche parte. È ciò che ho fatto con il
+        framework che converte il Markdown in HTML "crudo".
+      </p>
+
+      <p>Ecco la stack completa per i più smanettoni:</p>
+
+      <ul>
+        <li>Node.js + ExpressJs per il back-end</li>
+        <li>Ejs + CSS scritto da me per il front-end</li>
+        <li>
+          <a href="https://github.com/markdown-it/markdown-it">markdown-it</a>
+          per la conversione del file md in html
+        </li>
+      </ul>
+    </div>
+
+    <%- include('footer'); %>
+  </body>
+</html>

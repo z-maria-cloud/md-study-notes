@@ -1,0 +1,46 @@
+{
+  "Letteratura / Italiano": [
+    "intro-mitologia",
+    "intro-epica",
+    "intro-iliade",
+    "intro-odissea",
+    "caratteristiche-testo-narrativo",
+    "generi-e-temi-della-narrativa"
+  ],
+  "Storia": [
+    "la-preistoria",
+    "la-mesopotamia",
+    "antico-egitto",
+    "creta-e-micene",
+    "nascita-della-polis",
+    "sparta-e-atene",
+    "le-guerre-persiane",
+    "pericle-e-la-crisi-delle-poleis",
+    "alessandro-magno",
+    "la-nascita-di-roma",
+    "roma-e-conquiste"
+  ],
+  "Scienze Umane": [
+    "introduzione-scienze-umane-e-cultura",
+    "identità",
+    "le-emozioni",
+    "intelligenza",
+    "apprendimento",
+    "la-memoria",
+    "comunicazione-e-linguaggio",
+    "comunicazione-sociale",
+    "i-metodi-della-psicologia-scientifica",
+    "il-metodo-nelle-scienze-sociali",
+    "magia-sacro-religione",
+    "media-e-globalizzazione",
+    "status-ruolo-norme",
+    "antropologia-mondo-contemporaneo",
+    "teorie-sociologia"
+  ],
+  "Economia e Diritto": [
+    "il-sistema-economico",
+    "lo-stato",
+    "struttura-stato-italiano",
+    "norme-giuridiche"
+  ]
+}

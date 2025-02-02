@@ -1,0 +1,20 @@
+{
+  "name": "study-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "production": "PROJECT_PORT=3000 NODE_ENV=production node index.js",
+    "dev": "PROJECT_PORT=3000 node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "markdown-it": "^14.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}

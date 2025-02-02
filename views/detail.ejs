@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MD Study Notes - <%= data.title %></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" type="image/x-icon" href="logo.png" />
+
+    <%- include('fonts'); %>
+
+    <link href="<%= data.style %>.css" rel="stylesheet" />
+    <link href="dropdown.css" rel="stylesheet" />
+  </head>
+  <body>
+    <%- include('header'); %>
+
+    <div class="main-container">
+      <div class="download-bar flex">
+        <h2>Stai leggendo: <span id="page-title"><%= data.title %></span></h2>
+        <a class="style-button" href="download-<%= data.title %>.md"
+          >Scarica questo file</a
+        >
+      </div>
+
+      <div class="styles-bar">
+        <p>Scegli uno stile:</p>
+        <a class="style-button" href="view?file=<%= data.title %>&style=dark"
+          >Dark Mode</a
+        >
+        <a class="style-button" href="view?file=<%= data.title %>&style=light"
+          >Light Mode (default)</a
+        >
+        <a class="style-button" href="view?file=<%= data.title %>&style=book"
+          >Vintage Book</a
+        >
+        <a class="style-button" href="view?file=<%= data.title %>&style=tty"
+          >Terminal Emulator</a
+        >
+      </div>
+
+      <%- data.page %>
+    </div>
+
+    <%- include('footer'); %>
+  </body>
+</html>

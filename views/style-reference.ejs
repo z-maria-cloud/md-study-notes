@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MD Study Notes - style reference</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" type="image/x-icon" href="logo.png" />
+
+    <%- include('fonts'); %>
+
+    <link href="<%= data.style %>.css" rel="stylesheet" />
+    <link href="dropdown.css" rel="stylesheet" />
+  </head>
+  <body>
+    <%- include('header'); %>
+
+    <div class="main-container">
+      <div class="download-bar flex">
+        <h2>Stai leggendo: <span id="page-title"><%= data.title %></span></h2>
+        <a class="style-button" href="download-<%= data.title %>.md"
+          >Scarica questo file</a
+        >
+      </div>
+
+      <div class="styles-bar">
+        <p>Scegli uno stile:</p>
+        <a class="style-button" href="view?file=<%= data.title %>&style=dark"
+          >Dark Mode</a
+        >
+        <a class="style-button" href="view?file=<%= data.title %>&style=light"
+          >Light Mode (default)</a
+        >
+        <a class="style-button" href="view?file=<%= data.title %>&style=book"
+          >Vintage Book</a
+        >
+      </div>
+
+      <h1>Title 1</h1>
+      <h2>Title 2</h2>
+      <h3>Title 3</h3>
+      <h4>Title 4</h4>
+      <h5>Title 5</h5>
+      <h6>Title 6</h6>
+
+      <p>
+        Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor
+        sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem
+        ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit
+        amet.Lorem ipsum dolor sit amet.
+      </p>
+
+      <p>
+        Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor
+        sit amet.
+      </p>
+
+      <p>Lorem ipsum dolor sit amet.</p>
+
+      <ul>
+        <li>List 1</li>
+        <li>List 2</li>
+        <li>List 3</li>
+
+        <a href="">Link</a>
+      </ul>
+    </div>
+
+    <%- include('footer'); %>
+  </body>
+</html>

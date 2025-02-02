@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MD Study Notes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" type="image/x-icon" href="logo.png" />
+
+    <%- include('fonts'); %>
+
+    <link href="light.css" rel="stylesheet" />
+  </head>
+  <body>
+    <%- include('header'); %>
+
+    <div class="main-container">
+      <h2>Che cos'è "MD Study Notes"?</h2>
+      <p>
+        È il repository dei miei appunti di studio scritti in formato
+        "Markdown". Markdown è un pratico modo per definire documenti,
+        organizzando come dovranno comportarsi elementi di testo (titoli,
+        elenchi)...
+      </p>
+      <p>
+        Qui ho caricato i miei appunti, che vengono compilati dal server in
+        formato web HTML per renderne più agevole la lettura.
+      </p>
+      <p>
+        È inoltre possibile scaricare il file Markdown di partenza per tutti gli
+        appunti.
+      </p>
+      <p>
+        <span style="color: red">ATTENZIONE</span>: scaricando il file Markdown
+        originale non verranno incluse eventuali immagini.
+      </p>
+      <p>
+        <span style="color: red">ATTENZIONE</span>: su Windows, potete aprire i
+        file Markdown con il programma "Blocco Note"
+      </p>
+
+      <p>
+        <a href="about">Qui</a>
+        <strong
+          >ho scritto altri dettagli sul come ho realizzato questo
+          progetto.</strong
+        >
+      </p>
+
+      <h2>È possibile leggere e scaricare questi files:</h2>
+
+      <%- data %>
+    </div>
+
+    <%- include('footer'); %>
+  </body>
+</html>
