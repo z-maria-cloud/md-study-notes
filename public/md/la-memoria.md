@@ -34,7 +34,7 @@
 ## La memoria a breve termine (MBT)
 
 - Memoria attiva che trattiene informazioni temporanee che possono essere riutilizzate in tempo brevi
-- Usata nella quiotidianità
+- Usata nella quotidianità
 - Ha la funzione di filtrare le informazioni per evitare sovraccarrichi
 
 ## La memoria a lungo termine

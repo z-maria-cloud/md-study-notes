@@ -18,10 +18,10 @@
 
 ## Guido Cavalcanti
 
-- Auttorità intellettuale dell'epoca
+- Autorità intellettuale dell'epoca
 - Teatralizzazione degli spiriti: dialoghi interni, lotta interiore delle facoltà vitali dell'uomo
 
 ## Dante Alighieri
 
 - L'amore viene visto come salvezza quasi religiosa
-- Conia l' espressione "dolce stil novo"
+- Conia l'espressione "dolce stil novo"

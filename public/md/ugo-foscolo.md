@@ -5,7 +5,7 @@
 - Si arruola come soldato nella Repubblica cisalpina
 - Non cerca l'appoggio dei potenti
 - Diventa professore di eloquenza italiana e latina nell'università di Pavia
-- La letterraturra a una funzionne civile, e aiuta la civiltà ad evolvere
+- La letteratura ha una funzione civile, e aiuta la civiltà ad evolvere
 - Temi ricorrenti:
 	- Senso di nostalgia
 	- Visione negativa della storia: è un succedersi di episodi violenti in cui i forti vincono sui deboli

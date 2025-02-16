@@ -31,13 +31,13 @@
 
 - Che cosa produrre e come
 - Per chi produrre
-- Come deve essere organizzata l'atttività produttiva
+- Come deve essere organizzata l'attività produttiva
 - ecc
 
 ## I soggetti del sistema economico e le relazioni economiche
 
 - Le famiglie: offrono lavoro, sono i consumatori principali
-- Le imprese: domanda lavoro e capitali, offre beni e servizi
+- Le imprese: domandano lavoro e capitali, offrono beni e servizi
 - Lo Stato: garantisce infrastrutture, persegue fini sociali, preleva tributi, offre beni e servizi pubblici
 
 ### Le famiglie
@@ -59,8 +59,8 @@
 
 - Attraverso gli scambi ognuno può procurarsi beni per soddisfare i bisogni
 - Gli scambi possono avvenire sul circuito:
-	- Reale: scambi di beni e servizi
-	- Monetario: scambio di denaro
+	- Reale → scambi di beni e servizi
+	- Monetario → scambio di denaro
 - La compravendita è il trasferimento di un bene o di un servizio da un soggetto all'altro in cambio di moneta
 - Il baratto è lo scambio diretto di un bene con un'altro bene
 
@@ -68,7 +68,7 @@
 
 - É l'insieme degli scambi che avvengono fra i soggetti economici
 - Secondo la dimensione si può parlare di mercato locale, mercato nazionale, mercato mondiale
-- Si può inoltre disinguere tra mercato al minuto e all'ingrosso
+- Si può inoltre distinguere tra mercato al minuto e all'ingrosso
 
 ## I sistemi economici attraverso la storia
 
@@ -76,6 +76,6 @@
 - Nel tardo medioevo iniziavano ad essere investiti capitali che venivano utilizzati per finanziare spedizioni in terre nuove
 - Con la rivoluzione industriale nascono nuove classi sociali (i capitalisti, che possiedono le fabbriche; i salariati, ovvero gli operai) e la modalità di produzione cambia drasticamente. Iniziano anche a diffondersi inquinamento e cambiamenti negativi sulla qualità di vita
 - Il sistema liberista si basava sulla libertà di iniziativa economica, e "vietava" l'intervento dello stato all'interno del sistema economico
-- Il sistema colletivista critica i limiti del sistema liberalista. Ha origini dall'ideologia di Karl Marx. I mezzi di produzione sono di proprietà dello stato, le classi sociali non esistono, i servizi essenziali sono gratuiti, ecc
+- Il sistema colletivista critica i limiti del sistema liberista. Ha origini dall'ideologia di Karl Marx. I mezzi di produzione sono di proprietà dello stato, le classi sociali non esistono, i servizi essenziali sono gratuiti, ecc
 - La grande depressione è la prova della fragilità del sistema liberista
 - Con il New Deal lo stato inizia ad intervenire nel sistema economico (sistema a economia mista)

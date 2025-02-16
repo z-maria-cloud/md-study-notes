@@ -46,7 +46,7 @@ Le 2 lingue letterarie della Francia:
 
 - Testi poetici cantati
 - Temi: amore come esperienza di educazione interiore
-- Uso di uno speudonimo detto "senhal"
+- Uso di uno pseudonimo detto "senhal"
 - Pubblico: corti signorili
 
 ### Autori

@@ -30,20 +30,20 @@
 
 - Veniva tramandato oralmente, affidato alla memoria popolare
 - Vere e proprie tecniche di sviluppo della memoria per non dimenticare questo patrimonio
-- La trasmissione orale influisce sulla natura dei miti, destinati a non assumere mai una froma definitiva. non è raro trovare + versioni dello stesso mito per questo motivo
+- La trasmissione orale influisce sulla natura dei miti, destinati a non assumere mai una froma definitiva. Non è raro trovare più versioni dello stesso mito per questo motivo
 
 ### Gli aèdi
 
-- Cantori di professione, che viaggiando memorizzano, grazie a veri e propri **strumenti mnemotecnici**, esperienze da aggiungere alla memoria condivisa in continua espansione
+- Cantori di professione che, viaggiando, memorizzano grazie a veri e propri **strumenti mnemotecnici** esperienze da aggiungere alla memoria condivisa in continua espansione
 - "Artigiani della memoria"
 - Prima di acquisire consapevolezza delle tecniche mnemoniche, i cantori riferivano questa capacità a divinità chiamate muse
 
 ## Impronta comune dei miti
 
-- Sumeri, egizi, greci e romani hanno trovato nei miti punti di riferimento morali e religiosi sui quali costruire le loro società.
-	- Temi e significati riscontrano somiglianze anche con miti sviluppatosi in oriente, cina, america precolombiana, africa
+- Sumeri, egizi, greci e romani hanno trovato nei miti punti di riferimento morali e religiosi sui quali costruire le loro società
+	- Temi e significati riscontrano somiglianze anche con miti sviluppatisi in oriente, Cina, America precolombiana, Africa
 - Esseri umani si sono posti le stesse domande in epoche e luoghi differenti
-- Grandi interrogativi esistenziali erano analoghi in tutte le culture
+- I grandi interrogativi esistenziali erano analoghi in tutte le culture
 
 ## Archetipi
 
@@ -53,7 +53,7 @@
 
 ## Caratteristiche stilistiche dei miti
 
-- Passi ripetuti e scene tipice, vere e proprie formule che ritornano sempre nella descrizione delle stesse circostanze
+- Passi ripetuti e scene tipiche, vere e proprie formule che ritornano sempre nella descrizione delle stesse circostanze
 - Strutturati così i miti erano ricordati e recitati in maniera + efficace
 
 ## Contenuti dei miti

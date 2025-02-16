@@ -3,7 +3,7 @@
 ## L'imprenditore
 
 - È imprenditore chi esercita professionalmente un'attività economica organizzata al fine della produzione o dello scambio di beni o di servizi
-- L'impresa è lo svolgimento dell'atività dell'imprenditore
+- L'impresa è lo svolgimento dell'attività dell'imprenditore
 - L'azienda è l'insieme di beni organizzati dall'imprenditore per l'esercizio dell'impresa
 
 ## Tipi di imprenditori

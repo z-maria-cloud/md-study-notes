@@ -21,5 +21,5 @@
 
 ## Gli esperimenti
 
-- Può essere fatto in laboratorio o sul campo
+- Possono essere fatti in laboratorio o sul campo
 - Vengono usati 2 gruppi di soggetti: un gruppo sperimentale sul quale viene eseguito l'esperimento, e un gruppo di controllo, che serve come punto di riferimento

@@ -11,7 +11,7 @@
 ## Le Odi
 
 - Temi di attualità
-- Condurre battaglie civile attraverso la scrittura
+- Condurre battaglie civili attraverso la scrittura
 - Temi:
 	- Preservare bellezza del paesaggio agreste
 	- Salute dei cittadini in seguito all'introduzione di nuove tecnologie

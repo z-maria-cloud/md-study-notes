@@ -1,6 +1,6 @@
 # La nascita della sociologia e il suo contesto storico
 
-- Nasce intorno al 1830, quando emergono nuove classi sociali (per esempio la classe degli operai)
+- La sociologia nasce intorno al 1830, quando emergono nuove classi sociali (per esempio la classe degli operai)
 - Auguste Comte esponente della corrente del positivismo, è il fondatore della sociologia
 
 ## Positivismo
@@ -17,14 +17,14 @@
 ## Karl Marx e il materialismo storico
 
 - Profondi cambiamenti sociali dovuti all'industrializzazione
-- Società divisa in classi (borghesia e proletariato) che sono in conflitto fra di loro; quelle più potenti sfruttano le classi più povere
+- Società divisa in classi (borghesia e proletariato) che sono in conflitto fra di loro; le classi più potenti sfruttano le classi più povere
 - Secondo Marx, la società potrà vivere in modo egualitario solo dopo la rivoluzione comunista
 - Il materialismo storico individua nei beni materiali il motore della storia umana
 - La società è inoltre divisa in 2 "strati": la **struttura** ovvero i mezzi di produzione e le relazioni sociali che ne derivano, e la **sovrastruttura**, ovvero l'insieme degli elementi culturali che vengono utilizzati dalle classi superiori contro le classi inferiori per giustificare il loro comportamento
-- Teoria del plusvalore: il lavoro degli operai non viene retribuito abbastanza, ed è questo che permette agli imprenditori capitalisti di guadagnare sempre di più. Il pluslavooro genera plusvalore, che ha valore maggiore rispetto ai costi di produzione: questa è la chiave del profitto
+- Teoria del plusvalore: il lavoro degli operai non viene retribuito abbastanza, ed è questo che permette agli imprenditori capitalisti di guadagnare sempre di più. Il pluslavoro genera plusvalore, che ha valore maggiore rispetto ai costi di produzione: questa è la chiave del profitto
 - Sfruttamento del lavoro → pessime condizioni di vita → alienazione
-- Anche il capitalismo è determinato a tramontare: il crollo del capitalismo è inevitabile. Gli operai diventano coscienti della loro situazione; l'obietivo del capitalismo è generare profitto, ma questo causerà crisi di sovrapproduzione
-- Con la socieà comunista tutti i mezzi di produzione saranno di proprietà collettiva, e gli operai avranno finalmente condizioni di vita migliori
+- Anche il capitalismo è determinato a tramontare: il crollo del capitalismo è inevitabile. Gli operai diventano coscienti della loro situazione; l'obiettivo del capitalismo è generare profitto, ma questo causerà crisi di sovrapproduzione
+- Con la società comunista tutti i mezzi di produzione saranno di proprietà collettiva, e gli operai avranno finalmente condizioni di vita migliori
 
 ## Il pensiero di Durkheim
 
@@ -34,7 +34,7 @@
 - I fatti sociali premono sull'individuo, e influenzano identità, coscienza e convinzioni
 - Coesione tra membri della società è essenziale. La solidarietà alimenta la coesione sociale, e può essere di vari tipi:
 	- Solidarietà meccanica: unione spontanea che deriva dalla scarsa divisione del lavoro. Il diritto è più severo e i reati sono più gravi
-	- Solidarietà organica: basata sulle differenze, carattteristica delle società che hanno strutture più avanzate
+	- Solidarietà organica: basata sulle differenze, caratteristica delle società che hanno strutture più avanzate
 - Coesione sociale → coscienza collettiva → varie generazioni legate fra loro → senso di appartenenza
 
 ## Il pensiero di Weber
@@ -56,7 +56,7 @@
 - La società è un sistema di funzioni integrate
 - L'enfasi non è posta sul soggetto in quanto individuo, ma sul ruolo e lo status che l'individuo si ritrova a rivestire
 - Attraverso la socializzazione si forma la personalità
-- Le variabili strutturali: classificano il comportamento individuale che l'individuo utilizza mentre svolge il proprio ruolo nella società
+- Le variabili strutturali: classificano il comportamento che l'individuo utilizza mentre svolge il proprio ruolo nella società
 - Il paradigma AGIL (Adaptation, Goal attainment, Integration, Latent pattern maintenance): modello cha analizza la società a partire dalle parti che la costituiscono
 	- Adaptation → adattamento al contesto esterno → sottosistema economico
 	- Goal attainment → impiego e distribuzione delle risorse → sottosistema politico
@@ -68,15 +68,15 @@
 
 - Funzionalismo meno astratto rispetto a quello di Parsons: non nega la sua teoria, ma tenta di spiegare perchè possono esistere comportamenti disfunzionali
 - Ci possono essere differenze e contraddizioni nell'interpretare i ruoli e gli status sociali: gli status possono anche essere rifiutati completamente dall'individuo. Questo comportamento si chiama **devianza**.
-- La devianza, secondo Merton, nasce dalla mancanza di regole. Condizione che deriva dal rapporto individuo-società
+- La devianza, secondo Merton, nasce dalla mancanza di regole, condizione che deriva dal rapporto individuo-società
 - Funzioni manifeste (funzioni principali) e funzioni latenti (funzioni "secondarie" che possono emergere): la devianza può essere una forma latente innovativa
 
 ## La teoria critica della scuola di Francoforte
 
 - Direttore della scuola di Francoforte: Max Horkheimer
 - Nomi più importanti: Walter Benjamin, Herbert Marcuse, Erich Fromm, Theodor Adorno, Jürgen Habermas
-- La scuola di Francofortte si interessa alla nuova società industriale
+- La scuola di Francoforte si interessa alla nuova società industriale
 - Analisi dei conflitti presenti nella società
 - Marcuse sostiene che vengano indotti falsi bisogni che possono essere soddisfatti solo diventando schiavi del lavoro
-- Habermas analizza la sfera pubblica, intesa come spazio di discussione. Nella sfera pubblica il potere non può essere esercitato in modo arbitrario a meno; deve essere legittimato dal consenso. 
+- Habermas analizza la sfera pubblica, intesa come spazio di discussione. Nella sfera pubblica il potere non può essere esercitato in modo arbitrario; deve essere legittimato dal consenso
 - L'agire comunicativo: comunicare come modo per coordinare l'agire

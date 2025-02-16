@@ -4,7 +4,7 @@
 
 - Il lavoratore subordinato presta il suo lavoro in cambio di una retribuzione
 - Non è soggetto al rischio d'impresa
-- Fanno parte della struttura aziendale sotto direzione dell'imprenditore
+- I lavoratori fanno parte della struttura aziendale sotto direzione dell'imprenditore
 
 ## I contratti di lavoro subordinato
 
@@ -27,7 +27,7 @@
 - La retribuzione deve assicurare al lavoratore e alla sua famiglia un'esistenza dignitosa
 - Il lavoratore non può rinunciare al riposo settimanale e alle ferie annuali
 - Ogni cittadino dell'Unione Europea è libero di cercare lavoro in qualsiasi stato membro
-- È proibito lo sffruttamento del lavoro minorile
+- È proibito lo sfruttamento del lavoro minorile
 
 ## Il diritto di sciopero
 

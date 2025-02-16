@@ -1,12 +1,12 @@
 # Introduzione alle scienze umane
 
 - Si occupano del comportamento umano
-- Il metodo empirico-sperimentale non può essere utilizzato come nelle alre scienze (per esempio fisica o chimica)
-- Le scienze umane sono iniziate ad emergere come discipline indipendenti a partire dal 1800, iniziando con l'economia
-- Successivamente compaiono la sociologia, che studia le società e i comportamenti umani collettivi, e la psicologia, che studia l'individuo, il comportamento e la psiche, concentrandosi sull'individuo
-- Agli inizi del 1900 nasce la psicologia sociale, a cavallo tra la sociologia e la psicologia, ce studia i piccoli gruppi e l'influenza dell'ambiente su di questi
-- Appartengono alle scienze umane anche altre discipline quali la storia, la scienza e la geografia politica, la geografia antropica.
-- Anche se le scienze umane godono di completa autonomia, le vvarie discipline sono interdipendenti e connesse tra di loro, visto che molto spesso nello studio di un fenomeno non è sempre facile tracciare nette separazioni
+- Il metodo empirico-sperimentale non può essere utilizzato come nelle altre scienze (per esempio fisica o chimica)
+- Le scienze umane iniziano ad emergere come discipline indipendenti a partire dal 1800, a partire dall'economia
+- Successivamente compaiono la sociologia, che studia le società e i comportamenti umani collettivi, e la psicologia, che studia il comportamento e la psiche, concentrandosi sull'individuo
+- Agli inizi del 1900 nasce la psicologia sociale, a cavallo tra la sociologia e la psicologia, che studia i piccoli gruppi e l'influenza dell'ambiente su di questi
+- Appartengono alle scienze umane anche altre discipline quali la storia, la scienza, la geografia politica, la geografia antropica
+- Anche se le scienze umane godono di completa autonomia, le varie discipline sono interdipendenti e connesse tra di loro, visto che molto spesso nello studio di un fenomeno non è sempre facile tracciare nette separazioni
 
 ## Il concetto di cultura
 

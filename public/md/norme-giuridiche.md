@@ -51,7 +51,7 @@
 	- La nuova norma preveda la propria irretroattività
 	- Interpreta una norma precedente
 	- In campo penale è più favorevole al reo
-- L'abrogazione è l'esttinzione delle norme giuridiche e comporta la cancellazione dall'ordinamento giuridico
+- L'abrogazione è l'estinzione delle norme giuridiche e comporta la cancellazione dall'ordinamento giuridico
 
 ## I rapporti giuridici
 
@@ -73,9 +73,10 @@
 ## L'oggetto e il contenuto del rapporto giuridico
 
 - A un diritto soggettivo corrisponde un dovere
-- L'obbligo è il comportamennto che un soggetto ha nei confronti di chi detiene un diritto soggettivo
+- L'obbligo è il comportamento che un soggetto ha nei confronti di chi detiene un diritto soggettivo
 - I diritti soggettivi possono essere pubblici o privati
 - I diritti soggettivi privati possono essere assoluti, relativi, trasmissibili, intrasmissibili
-- L'oggetto del rapporto giuridico può essere costtituito da beni, mobili o immobili, materiali o immateriali
-- I beni demaniali sono di proprietà dello stato ma possono essere dati in concessione. I beni patrimoniali sono beni pubblici non demaniali
+- L'oggetto del rapporto giuridico può essere costituito da beni, mobili o immobili, materiali o immateriali
+- I beni demaniali sono di proprietà dello stato ma possono essere dati in concessione
+- I beni patrimoniali sono beni pubblici non demaniali
 - Anche una prestazione può essere oggetto di un rapporto giuridico

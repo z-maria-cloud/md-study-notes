@@ -12,7 +12,7 @@
 - Quantità di beni e servizi che viene messa in vendita in un dato momento a un dato prezzo
 - Può essere individuale o collettiva (somma delle offerte individuali)
 - È influenzata dal prezzo del bene, dal prezzo di altri beni, dal costo di produzione, ecc
-- L'offera varia in modo **direttamente proporzionale** al variare del prezzo
+- L'offerta varia in modo **direttamente proporzionale** al variare del prezzo
 
 ## La moneta
 
@@ -26,6 +26,6 @@
 ### I diversi valori della moneta
 
 - Valore nominale: valore impresso sulla moneta
-- Valore intrinseco: vallore del materiale usato per produrre la moneta
+- Valore intrinseco: valore del materiale usato per produrre la moneta
 - Valore esterno: valore di una moneta rispetto ad un'altra di un altro paese
 - Valore estrinseco: quantità di beni che si possono acquistare con una unità di moneta

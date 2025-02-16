@@ -41,7 +41,7 @@
 
 ### L'Inferno
 
-- Cono rovesciato con la punta ce corrisponde al centro della terra
+- Cono rovesciato con la punta che corrisponde al centro della terra
 - Più si scende più i peccati sono gravi
 - Oscuro e tetro
 - Creature demoniache

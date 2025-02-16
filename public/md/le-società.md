@@ -88,7 +88,7 @@ L'elemento patrimoniale prevale su quello personale
 
 ## La società in nome collettivo (s.n.c)
 
-- Tuttti i soci rispondono solidalmente e illimitatamente per le obbligazioni sociali
+- Tutti i soci rispondono solidalmente e illimitatamente per le obbligazioni sociali
 - Può svolgere attività commerciali o non
 - Ragione sociale: nome della s.n.c
 - Può venire escluso il socio che viola il diritto di concorrenza partecipando ad altre società concorrenti come socio illimitatamente responsabile
@@ -111,7 +111,7 @@ L'elemento patrimoniale prevale su quello personale
 - Denominazione sociale deven contenere "s.p.a"
 - Atto costitutivo deve essere pubblico
 	- Deve contenere dati anagrafici dei soci, denominazione, attività, valore nominale azioni, sistema di amministrazione adottato, ecc
-- Con lo statuto vengono deffinite le norme di funzionamento della società
+- Con lo statuto vengono definite le norme di funzionamento della società
 
 ## La s.p.a unipersonale
 
@@ -139,7 +139,7 @@ L'elemento patrimoniale prevale su quello personale
 
 - Prestiti in denaro ottenuti da terzi 
 - Diverse dalle azioni
-	- Obbligazione attribuisce status di creditore e non di socio
+	- Una obbligazione attribuisce status di creditore e non di socio
 	- Titoli di credito che servono come prestito all'azienda che le emette; l'obbligazione verrà restituita alla scadenza concordata
 
 ## La società a responsabilità limitata (s.r.l)

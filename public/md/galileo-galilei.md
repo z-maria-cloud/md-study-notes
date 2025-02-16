@@ -11,7 +11,7 @@
 
 ## Il Dialogo sopra i due massimi sistemi del mondo
 
-- Pubblicata 1632
+- Opera pubblicata nel 1632
 - Moto di rotazione della terra
 - Rivoluzione della terra attorno al sole
 - Teoria delle maree

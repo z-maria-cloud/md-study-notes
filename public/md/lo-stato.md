@@ -61,10 +61,10 @@
 
 - Il Ducato di Savoia si espande e diventa il Regno di Sardegna
 - Il re di Sardegna Carlo Alberto concede lo **Statuto Albertino** (è **concesso**, non è votato nè approvato da un'Assemblea)
-	- Prevede la spearazione dei poteri in legislativo, esecutivo e giudiziario
-	- Prevede un Parlamento parzialmente eletto dal popolo
-	- Riporta le principali libertà dell'individuo
-	- È modificabile da leggi ordinarie
+	- Prevedeva la separazione dei poteri in legislativo, esecutivo e giudiziario
+	- Prevedeva un Parlamento parzialmente eletto dal popolo
+	- Riportava le principali libertà dell'individuo
+	- Era modificabile da leggi ordinarie
 
 ## La Costituzione
 

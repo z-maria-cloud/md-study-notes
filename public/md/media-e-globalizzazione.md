@@ -37,12 +37,12 @@
 ## La teoria “third place” nella realtà e nel web
 
 - Il "third place" (terzo spazio) si riferisce ai "confini sociali" che separano gli altri 2 spazi (la casa e il lavoro)
-- Esempi di terzi spazi includono chhiese, bar, club, bibliotece, teatri, parchhi, ecc
-- Ray Oldenburg sostiene che i terzi spazi siano fondamentali per la democrazia, impegno civico e senso di appartenenza
+- Esempi di terzi spazi includono chiese, bar, club, biblioteche, teatri, parchi, ecc
+- Ray Oldenburg sostiene che i terzi spazi siano fondamentali per la democrazia, l'impegno civico e il senso di appartenenza
 - Le caratteristiche di un terzo spazio:
 	- Neutralità: non è obbligatorio che gli occupanti di un terzo spazio si trovino lì. Non si è obbligati a rimanere a livello finanziario, né per motivi politici, e si è liberi di venire e andare come e quando si vuole
 	- Un posto "livellatore": i terzi spazi non danno importanza allo status sociale di chi partecipa, e tutti i partecipanti sono posti sullo stesso livello
-	- Conversatione come attività principale: la conversazione serena è spesso al centro dei terzi spazi, anche se non è un requisito
+	- Conversazione come attività principale: la conversazione serena è spesso al centro dei terzi spazi, anche se non è un requisito
 	- Accessibilità: i terzi spazi devono essere aperti e facilmente accessibili a chi vuole occuparli
 	- Gli "abituali": i terzi spazi ospitano un certo numero di persone che aiutano ad impostare il tono e l'ambiente dello spazio. Gli abituali inoltre attirano nuove persone e aiutano coloro che sono nuovi allo spazio a sentirsi benvenuti
 	- Accoglienza: i terzi spazi sono sani e accoglienti, e accettano ogni tipo di persona

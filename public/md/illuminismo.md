@@ -7,12 +7,12 @@
 - Ragione e scienza cancellano le ombre dell'ignoranza
 - Centro del movimento si trova in Francia, ma si diffonde in tutta Europa
 	- Montesquieu, Diderot, Voltaire, Rousseau
-- Ammirazione della scienze a ssoluta fiducia nelle qualità razionali dell'uomo
+- Ammirazione della scienze e assoluta fiducia nelle qualità razionali dell'uomo
 - Studio della storia con il metodo scientifico
 - Impegno sociale e civile, riforme liberali
 - Tolleranza, uguaglianza, libertà
 - Espressione libera del proprio pensiero
-- Dibattiti riguardanti le religioni, che sono capaci di imporre pratiche assurde
+- Dibattiti che criticano le religioni, che sono capaci di imporre pratiche assurde
 - Anche persone umili possono diventare studiosi
 - Creazione dell'enciclopedia
 - Caffè culturali
