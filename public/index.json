@@ -5,7 +5,23 @@
     "intro-iliade",
     "intro-odissea",
     "caratteristiche-testo-narrativo",
-    "generi-e-temi-della-narrativa"
+    "generi-e-temi-della-narrativa",
+    "nascita-letteratura-europea",
+    "il-dolce-stil-novo",
+    "dante-alighieri",
+    "giovanni-boccaccio",
+    "francesco-petrarca",
+    "umanesimo-e-rinascimento",
+    "ludovico-ariosto",
+    "galileo-galilei",
+    "niccolò-machiavelli",
+    "torquato-tasso",
+    "barocco-nella-letteratura",
+    "illuminismo",
+    "carlo-goldoni",
+    "giuseppe-parini",
+    "ugo-foscolo",
+    "alessandro-manzoni"
   ],
   "Storia": [
     "la-preistoria",
@@ -17,7 +33,7 @@
     "le-guerre-persiane",
     "pericle-e-la-crisi-delle-poleis",
     "alessandro-magno",
-    "la-nascita-di-roma",
+    "la-nascita-di-roma-e-la-repubblica",
     "roma-e-conquiste"
   ],
   "Scienze Umane": [
@@ -27,10 +43,11 @@
     "intelligenza",
     "apprendimento",
     "la-memoria",
+    "sensi-e-percezione",
     "comunicazione-e-linguaggio",
     "comunicazione-sociale",
-    "i-metodi-della-psicologia-scientifica",
     "il-metodo-nelle-scienze-sociali",
+    "i-metodi-della-psicologia-scientifica",
     "magia-sacro-religione",
     "media-e-globalizzazione",
     "status-ruolo-norme",
@@ -39,8 +56,18 @@
   ],
   "Economia e Diritto": [
     "il-sistema-economico",
+    "domanda-offerta-moneta",
+    "inflazione-deflazione-pil",
     "lo-stato",
     "struttura-stato-italiano",
-    "norme-giuridiche"
+    "norme-giuridiche",
+    "le-società",
+    "il-lavoro",
+    "la-proprietà",
+    "le-obbligazioni",
+    "il-contratto",
+    "la-famiglia",
+    "le-successioni",
+    "imprenditore-e-azienda"
   ]
 }

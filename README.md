@@ -2,7 +2,7 @@
 
 An online repository of my study notes.
 
-This project's content is written in italian.
+This project's content is written in italian. (Study notes about english and french literature are written in english and french)
 
 ## Features:
 

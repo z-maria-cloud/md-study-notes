@@ -1,6 +1,4 @@
-// Study notes!!11
-
-// Render markdown!!! download study notes!!!!!!!!!!!
+// Study notes
 
 // init everything
 
