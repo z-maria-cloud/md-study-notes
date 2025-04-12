@@ -1,0 +1,21 @@
+# Vico
+
+- Giambattista Vico nasce nel 1668 a Napoli
+- Per comprendere davvero la storia e l'arte è essenziale utilizzare strumenti quali la fantasia, l'immaginazione e la sensibilità
+- Nuovo modo di vedere la conoscenza: centralità dell'indagine sulla storia dal punto di vista "umano"
+- Studiare le leggi che regolano lo sviluppo delle civiltà
+- La storia viene vista come una vera e propria scienza con le sue leggi specifiche
+- Filologia intesa come il raccogliere le testimonianze scritte di epoche passate
+	- Incluse testimonianze di elementi culturali quali usi e costumi
+- La filosofia viene intesa come "scienza del vero"
+	- Ricerca le cause e le leggi degli avvenimenti
+- Analisi delle situazioni originarie che hanno portato a fatti storici
+- Le fasi dello sviluppo umano:
+	- L'età degli dei → ogni evento naturale era attribuito agli dei. Prevale la sensibilità
+	- L'età degli eroi → prime forme di civiltà. La sensibilità si unisce alla fantasia
+	- L'età degli uomini → il popolo rivendica i diritti dei nobili. Uso della ragione
+- L'evoluzione mentale del singolo individuo rappresenta l'andamento della storia
+- Corsi e ricorsi: "ricadute" che portano la storia di nuovo alla fase iniziale, per esempio il medioevo
+- L'arte e la poesia sono forme di conoscenza
+	- I primi miti avevano lo scopo di spiegare fenomeni → concretizzazione di un modo di pensare primitivo
+- La sapienza poetica precede la sapienza razionale

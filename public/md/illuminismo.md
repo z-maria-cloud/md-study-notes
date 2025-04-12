@@ -3,11 +3,11 @@
 - 1700
 - Movimento politico, sociale, culturale e filosofico
 - Nasce in Inghilterra dopo la guerra civile
-- Termine "illuminismo" deriva dal francese lumierè, inteso come luce che serve ad illuminare le menti degli uomini e condurli verso il progresso
+- Termine "illuminismo" deriva dal francese lumière, inteso come luce che serve ad illuminare le menti degli uomini e condurli verso il progresso
 - Ragione e scienza cancellano le ombre dell'ignoranza
 - Centro del movimento si trova in Francia, ma si diffonde in tutta Europa
 	- Montesquieu, Diderot, Voltaire, Rousseau
-- Ammirazione della scienze e assoluta fiducia nelle qualità razionali dell'uomo
+- Ammirazione delle scienze e assoluta fiducia nelle qualità razionali dell'uomo
 - Studio della storia con il metodo scientifico
 - Impegno sociale e civile, riforme liberali
 - Tolleranza, uguaglianza, libertà

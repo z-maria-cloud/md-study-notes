@@ -1,0 +1,25 @@
+# Spinoza
+
+- Nasce nel 1632 ad Amsterdam
+- "Non deridere, nè compiangere, nè condannare, ma comprendere"
+- Ricerca del sommo bene
+- La filosofia può portare alla felicità, ovvero al sapere autentico
+- Il suo modo di pensare indipendente rovina i rapporti con la comunità ebraica a cui appartiene
+- La sostanza si identifica con Dio:
+	- È autonoma, unitaria, necessaria, increata, eterna, infinita
+	- Deve la propria esistenza solo a se stessa
+	- Per esistere non ha bisogno di altro
+- Dio e la natura sono un'unica sostanza
+- La sostanza divina si articola in:
+	- Attributi → qualità essenziali della sostanza
+	- Modi → concretizzazioni particolari degli attributi
+- Qualsiasi cosa esistente è in Dio
+- Esistono 3 livelli di conoscenza:
+	- Primo livello: la percezione sensibile e l'immaginazione → rappresentazioni parziali, spesso confuse
+	- Secondo livello: la ragione → idee chiare e distinte → collegamenti tra cose
+	- Terzo livello: la scienza intuitiva di Dio → suprema verità del mondo
+- Le azioni e le passioni umane sono simili ai fenomeni naturali → possono quindi essere studiate con il metodo geometrico
+	- L'individuo può agire in maniera passiva → subire la schiavitù delle passioni
+	- L'individuo inoltre può agire in maniera attiva → acquisire consapevolezza di se stesso
+- Lo stato e la politica accrescono la capacità di sopravvivenza degli esseri umani
+- Lo stato deve rispettare la libertà di attività nella sfera privata e la libertà di pensiero e di espressione degli individui

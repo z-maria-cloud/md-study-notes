@@ -1,0 +1,30 @@
+# Locke
+
+- Nasce nel 1632 a Wrington
+- Scrive il *Saggio sull'intelletto umano*
+- Ogni conoscenza deriva dall'esperienza
+	- Non esistono idee innate
+- Alla nascita, la mente è come un foglio bianco
+- Dall'esperienza derivano 2 tipi di idee:
+	- Idee di sensazione → provenienti dagli oggetti esterni
+	- Idee di riflessione → derivano dall'esperienza interna
+- Le idee semplici derivano dalle esperienze della sensazione e della riflessione → sono dotate di certezza
+- La mente può immagazzinare le idee semplici e poi combinarle in idee complesse → possono contenere errori
+	- Le idee complesse includono anche le idee di modo, di sostanza, e di relazione
+- Le idee delle sostanze corporee derivano dalla somma delle idee di sensazione
+- Il linguaggio ha una natura arbitraria
+	- Se il linguaggio non viene utilizzato correttamente può influenzare la nostra conoscenza
+- Introduce alcuni importanti concetti che influenzeranno le idee politiche dei secoli successivi:
+	- Libertà e uguaglianza giuridica di tutti i cittadini
+	- Il potere politico si basa sul consenso di tutti i cittadini
+	- La proprietà privata come diritto naturale
+	- La divisione dei poteri
+- Visione positiva della natura umana
+- 3 diritti fondamentali e inalienabili: il diritto alla vita, alla libertà, alla proprietà
+	- Il governo ha il compito di salvaguardare questi diritti
+- Gli individui devono stipulare un contratto sociale
+	- Unione in una civiltà civile → sottomissione ad un'autorità che tutela i diritti naturali
+- Politica e religione devono rimanere separate
+- Lo stato deve garantire la tolleranza religiosa
+	- Nessuna religione è superiore alle altre
+	- La fede non si può imporre con la forza

@@ -1,0 +1,36 @@
+# Hobbes
+
+- Nasce nel 1588 a Westport
+- Posizioni teoriche radicali
+	- Periodo storico sanguinoso e travagliato
+	- Guerra civile inglese
+- Al monarca spetta il potere illimitato
+	- Se il monarca non ha un potere assoluto, allora ci saranno per forza disordini nella società
+- Visione pessimistica dell'essere umano
+- Aspirazione alla pace
+- Esistono solanto i corpi, perchè sono le uniche cose che possono subire un'azione o agire
+- La sensazione nasce dal movimento dei corpi
+- Le funzioni fisiologiche e mentali si possono spiegare in termini materiali
+- La ragione è come un calcolatore. Addizionando o sottraendo collega immagini, concetti e segni linguistici
+- Il linguaggio ha una doppia funzione: memorizzazione e comunicazione
+- La scienza non rispecchia la realtà perchè è solo un reticolo di concetti convenzionali
+- La libertà si limita alla *libertà di azione*: non esiste la *libertà di volere*, soltanto la *libertà di fare ciò che la volontà ha deciso*
+	- Determinismo in ambito etico
+- Gli essere umani sono destinati a vivere in uno stato di conflitto perchè mossi dall'istinto di autoconservazione
+	- Questo è lo stato naturale dell'uomo
+	- Ognuno è nemico di tutti
+	- Vite brevi, misere e violente
+- Bisogna uscire dallo stato di natura e stipulare un compromesso che vincola tutti gli individui
+	- Cercare compromessi per arrivare alla pace
+	- Limitare i propri diritti in relazione a quelli degli altri
+	- Patto di sottomissione: tutti conferiscono il proprio diritto a un singolo
+	- Patto di unione: convergenza di tante volontà in un unico scopo
+- Il re deve avere un potere assoluto → il Leviatano (è anche il titolo di una delle sue opere) → il potere sovrano è immenso
+- Lo stato si può formare con la forza oppure attraverso un accordo tra le persone
+- La monarchia è la migliore forma di governo
+	- Il re costringe tutti ad obbedire alle norme, ma lui stesso non è tenuto a rispettarle
+	- Il re può prendere decisioni in totale segretezza
+	- Non c'è motivo di credere che il re agisca per fini personali
+	- Il re non deve in alcun caso mettere in pericolo la vita dei sudditi
+	- Il re non può interferire nella vita privata dei sudditi
+- La sua religiosità era formale: Hobbes pensava che le religioni fossero una fonte di conflitto e di guerre civili

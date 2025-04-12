@@ -1,0 +1,28 @@
+# Federico II
+
+- Nato il 26 dicembre 1194
+- Nipote di Federico Barbarossa
+- È stato re di Sicilia e duca di Svevia, Imperatore dei Romani e re di Gerusalemme
+- Federico discendeva dal lato paterno dalla famiglia degli Hohenstaufen e dal lato materno dalla famiglia siculo-normanna degli Altavilla, fondatori del Regno di Sicilia
+- Vuole dar vita ad un impero universale che accolga l'eredità dell'impero romano e dell'impero di Carlo Magno
+- Passato alla storia con l'appellativo *stupor mundi*
+	- Cultura, intelligenza politica
+	- Fu un abile stratega e legislatore
+	- Parlava sei lingue (latino, siciliano, tedesco, greco, arabo e francese)
+	- Promosse le scienze, la filosofia, le arti
+	- Fondò l’Università di Napoli
+	- La sua corte era un centro di sapere aperto a influenze cristiane, islamiche ed ebraiche
+- Il suo regno fu caratterizzato da una forte attività legislativa, di innovazione artistica e culturale
+- Intenzione di unificare le terre e i popoli
+- Fu fortemente criticato dalla Chiesa, di cui mise in discussione il potere temporale
+	- Ebbe infatti due scomuniche dal papa Gregorio IX, che arrivò a pensare che fosse l'anticristo
+- Giocò un ruolo importante nella promozione della letteratura attraverso la poesia della Scuola siciliana
+- Divenuto imperatore, l'obiettivo di Federico II fu quello di dotare il Regno di Sicilia di un sistema amministrativo efficace, in cui il potere fosse accentrato nelle sue mani
+- Per perseguire questo obiettivo Federico II adottò le seguenti misure:      
+	- Riduzione del potere dei baroni e del clero
+	- Istituzione di un esercito mercenario per liberarsi dai vincoli feudali con i suoi vassalli
+	- Istituzione di uffici efficaci per amministrare il regno  
+	- Aumento delle tasse per sostenere l'esercito e la burocrazia
+- Viene scomunicato dal papa nel 1227 perchè ha rinunciato ad organizzare una crociata
+	- Dopo la scomunica Federico II organizza la crociata e parte per la Terrasanta nel 1228
+	- Fu una crociata particolare: l'imperatore cercò di ottenere il dominio dei luoghi santi attraverso la diplomazia anziché attraverso battaglie
