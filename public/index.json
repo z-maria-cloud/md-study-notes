@@ -4,6 +4,7 @@
     "intro-epica",
     "intro-iliade",
     "intro-odissea",
+    "eneide",
     "caratteristiche-testo-narrativo",
     "generi-e-temi-della-narrativa",
     "nascita-letteratura-europea",
@@ -22,7 +23,8 @@
     "giuseppe-parini",
     "romanticismo",
     "ugo-foscolo",
-    "alessandro-manzoni"
+    "alessandro-manzoni",
+    "promessi-sposi"
   ],
   "Storia": [
     "la-preistoria",
@@ -158,5 +160,6 @@
     "arte-romanica",
     "arte-gotica",
     "arte-rinascimento"
-  ]
+  ],
+  "Scienze": ["chimica", "universo", "gli-esseri-viventi", "la-terra"]
 }

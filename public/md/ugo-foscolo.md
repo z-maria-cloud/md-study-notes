@@ -18,7 +18,7 @@
 - In una revisione del 1816 il tema politico viene accentuato
 - 20 anni di elaborazione del testo
 - Romanzo epistolare: il protagonista scrive delle lettere all'amico Lorenzo
-- Ritratto di Foscolo stesso: la delusione politica, gli sposamenti, il pensiero del suicidio
+- Ritratto di Foscolo stesso: la delusione politica, gli spostamenti, il pensiero del suicidio
 - Trattato di Campoformio
 - 2 forti passioni: la politica e l'amore
 	- Viene denunciata l'immaturità politica degli italiani
@@ -28,11 +28,13 @@
 
 ## Dei Sepolcri
 
+- Opera scritta in pochi mesi nel 1806
+- Pubblicazione nel 1807 
 - Tema della morte e delle rovine
 - Ispirazione: poesia cimiteriale
 - Celebrazione di grandi uomini attraverso le loro tombe
 - Difesa dei ricordi
-- Ha la forma di una lunga lettera in versi
+- Ha la forma di una lunga lettera in versi (295 endecasillabi sciolti) → carme
 - Conflitto fra vita e morte
 - I morti continuano a vivere attraverso i ricordi
 - Le azioni meritevoli compiute durante il corso della vita possono essere rese eterne dalla poesia

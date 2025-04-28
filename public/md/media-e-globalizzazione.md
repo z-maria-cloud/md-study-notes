@@ -34,7 +34,7 @@
 
 - Le reti aperte sono decentralizzate, ovvero sono distribuite su più server: i dati non sono tutti nello stesso posto, e quindi un social network su rete aperta non può essere chiuso o acquistato
 
-## La teoria “third place” nella realtà e nel web
+## Il “third place” nella realtà e nel web
 
 - Il "third place" (terzo spazio) si riferisce ai "confini sociali" che separano gli altri 2 spazi (la casa e il lavoro)
 - Esempi di terzi spazi includono chiese, bar, club, biblioteche, teatri, parchi, ecc

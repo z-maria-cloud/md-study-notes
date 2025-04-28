@@ -1,13 +1,13 @@
-## La domanda e l'offerta
+# La domanda e l'offerta
 
-### Domanda
+## Domanda
 
 - Quantità di beni e servizi richiesti dal mercato e dai consumatori
 - Può essere individuale o collettiva (somma delle domande individuali)
 - È influenzata dal reddito che si ha a disposizione, dal prezzo del bene stesso, dalle mode, ecc
 - La domanda varia in modo **inversamente proporzionale** al variare del prezzo
 
-### Offerta
+## Offerta
 
 - Quantità di beni e servizi che viene messa in vendita in un dato momento a un dato prezzo
 - Può essere individuale o collettiva (somma delle offerte individuali)
