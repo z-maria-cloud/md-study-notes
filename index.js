@@ -60,6 +60,11 @@ app.get("/download-:filename", function (req, res) {
   let fileName = req.params.filename;
   try {
     let file = `${__dirname}/public/md/${fileName}`;
+    console.log(
+      `${timestamp()}: →→→→→→ ${req.get("user-agent")} COMING FROM ${req.get(
+        "referer"
+      )}`
+    );
     console.log(`${timestamp()}: DOWNLOADING ${fileName}`);
     res.download(file);
   } catch (error) {
@@ -72,6 +77,12 @@ app.get("/download-:filename", function (req, res) {
 app.get("/view", (req, res) => {
   let fileName = req.query.file;
   let pageStyle = req.query.style;
+
+  console.log(
+    `${timestamp()}: →→→→→→ ${req.get("user-agent")} COMING FROM ${req.get(
+      "referer"
+    )}`
+  );
 
   console.log(
     `${timestamp()}: requested file ${fileName} with style ${pageStyle}`
